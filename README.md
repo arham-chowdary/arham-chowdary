@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a "Passionate about what I do" person<br> <br>📫 How to reach me 👉🏼 : arhamchowdary14@gmail.com<br>👨‍💻 Know more about me 💀 : https://641546a2530b0.site123.me/<br>📄 YO here's my Resume 🤖 : https://scarlet-myrtice-46.tiiny.site<br><br>⚡ Fun fact 😈 : Except for turning into a Super Saiyan and performing the Kamehameha, I can learn and do anything!🥹
+🔭 I’m a "Passionate about what I do" person<br> <br>📫 How to reach me 👉🏼 : arhamchowdary14@gmail.com<br>👨‍💻 Know more about me 💀 : https://641546a2530b0.site123.me/<br>📄 YO here's my Resume 🤖 : https://crimson-camellia-61.tiiny.site<br><br>⚡ Fun fact 😈 : Except for turning into a Super Saiyan and performing the Kamehameha, I can learn and do anything!🥹
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arham-chowdary&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arham-chowdary&limit=5&theme=radical&combine_all_yearly_contributions=true)
