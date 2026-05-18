@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a "Passionate about what I do" person<br> <br>📫 How to reach me 👉🏼 : arhamchowdary14@gmail.com<br>👨‍💻 Know more about me 💀 : https://641546a2530b0.site123.me/<br>📄 YO here's my Resume 🤖 : https://amethyst-christi-67.tiiny.site/<br><br>⚡ Fun fact 😈 : Except for turning into a Super Saiyan and performing the Kamehameha, I can learn and do anything!🥹
+🔭 I’m a "Passionate about what I do" person<br> <br>📫 How to reach me 👉🏼 : arhamchowdary14@gmail.com<br><br>⚡ Fun fact 😈 : Except for turning into a Super Saiyan and performing the Kamehameha, I can learn and do anything!🥹
 
 
 
