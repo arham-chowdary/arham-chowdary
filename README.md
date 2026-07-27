@@ -63,7 +63,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arham-chowdary\&theme=react\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arham-chowdary&theme=react&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arham-chowdary&theme=github_dark)
 
 ---
 
