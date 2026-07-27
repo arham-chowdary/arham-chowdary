@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 
-![Arham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arham-chowdary\&theme=react\&hide_border=true\&include_all_commits=true\&count_private=true)
+![Arham's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arham-chowdary&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arham-chowdary\&theme=react\&hide_border=true)
 
